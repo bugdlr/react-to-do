@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-to-do/static/css/main.5f5ad1c8.chunk.css",
+    "main.js": "/react-to-do/static/js/main.0be9d390.chunk.js",
+    "main.js.map": "/react-to-do/static/js/main.0be9d390.chunk.js.map",
+    "runtime~main.js": "/react-to-do/static/js/runtime~main.8def430e.js",
+    "runtime~main.js.map": "/react-to-do/static/js/runtime~main.8def430e.js.map",
+    "static/js/2.26e95a76.chunk.js": "/react-to-do/static/js/2.26e95a76.chunk.js",
+    "static/js/2.26e95a76.chunk.js.map": "/react-to-do/static/js/2.26e95a76.chunk.js.map",
+    "index.html": "/react-to-do/index.html",
+    "precache-manifest.7c7201524b50ede3a26d431957eca880.js": "/react-to-do/precache-manifest.7c7201524b50ede3a26d431957eca880.js",
+    "service-worker.js": "/react-to-do/service-worker.js",
+    "static/css/main.5f5ad1c8.chunk.css.map": "/react-to-do/static/css/main.5f5ad1c8.chunk.css.map",
+    "static/media/index.css": "/react-to-do/static/media/kelly-sikkema-411622-unsplash.f2cf95cc.jpg"
+  }
+}
